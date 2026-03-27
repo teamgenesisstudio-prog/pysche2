@@ -80,13 +80,61 @@ It asks how you're doing. That's it.
 
 PSYCHE is not a medical device. It does not diagnose or treat any condition. Always consult a qualified mental health professional for medical advice.
 
-If you are in crisis, contact emergency services immediately:
+## 🆘 Crisis Helplines
 
-- Bangladesh: 999 (emergency), 1098 (child helpline)
-- USA: 988 (Suicide & Crisis Lifeline)
-- International: 112
+If you or someone you know is struggling, help is available.
+
+### 🌍 Europe
+
+| Country | Helpline | Phone |
+|---------|----------|-------|
+| United Kingdom | Samaritans | 116 123 |
+| Germany | Telefonseelsorge | 0800 111 0 111 |
+| France | SOS Amitié | 09 72 39 40 50 |
+| Spain | Teléfono de la Esperanza | 717 003 717 |
+| Italy | Telefono Amico | 199 284 284 |
+| Netherlands | 113 Zelfmoordpreventie | 0800 0113 |
+| Sweden | Självmordslinjen | 90101 |
+| Norway | Mental Helse | 116 123 |
+| Denmark | Livslinien | 70 201 201 |
+| Finland | MIELI Kriisipuhelin | 09 2525 0111 |
+| Ireland | Samaritans | 116 123 |
+| Belgium | Zelfmoordlijn 1813 | 1813 |
+| Switzerland | Dargebotene Hand | 143 |
+| Austria | Telefonseelsorge | 142 |
+| Poland | ITAKA Foundation | 116 123 |
+| Portugal | SOS Voz Amiga | 213 544 545 |
+| Greece | Klimaka | 1018 |
+| Turkey | Ruh Sağlığı Derneği | 112 |
+
+### 🌏 Asia
+
+| Country | Helpline | Phone |
+|---------|----------|-------|
+| Bangladesh | National Helpline | 999 (emergency) |
+| Bangladesh | Child Helpline | 1098 |
+| India | iCall | 9152987821 |
+| India | AASRA | 9820466726 |
+| Pakistan | Umang | 0311 778 6264 |
+| Sri Lanka | CCCline | 1333 |
+| Nepal | PABHAS | 16600102066 |
+| Japan | Inochi no Denwa | 0120 783 556 |
+| South Korea | Suicide Prevention Hotline | 1393 |
+| China | Beijing Suicide Research | 010 82951332 |
+| Hong Kong | Samaritan Befrienders | 2389 2222 |
+| Taiwan | Taiwan Suicide Prevention | 1925 |
+| Singapore | Samaritans of Singapore | 1767 |
+| Malaysia | Befrienders KL | 03 7956 8145 |
+| Indonesia | Into the Light | 0811 385 2298 |
+| Philippines | National Mental Health Hotline | 0966 351 4518 |
+| Thailand | Samaritans Thailand | 02 713 6793 |
+| Vietnam | National Mental Health | 1900 646 924 |
 
 ---
+
+### 🌐 International
+- **International** | 112 (emergency, most countries)
+- **International** | 911 (emergency, US/Canada)
 
 ## 📝 License
 
