@@ -69,21 +69,10 @@ It asks how you're doing. That's it.
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **AI**: Claude API (Anthropic)
-- **Storage**: localStorage (browser)
-- **Hosting**: Vercel (free)
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo
-2. Open `index.html` in your browser
-3. (Optional) Add your Claude API key in `config.js`
-4. Start checking in
 
 ---
 
